@@ -6,11 +6,11 @@ Public download repository for File Pad.
 
 Latest DMG:
 
-https://github.com/brainok/Multiple-file-viewer-mac-release/releases/latest/download/File-Pad.dmg
+https://github.com/brainok/Multiple-file-viewer-mac-release/releases/latest/download/File%20Pad.dmg
 
 ## Install
 
-1. Open `File-Pad.dmg`.
+1. Open `File Pad.dmg`.
 2. Drag `File Pad.app` to the `Applications` folder.
 3. Open File Pad from Applications.
 
